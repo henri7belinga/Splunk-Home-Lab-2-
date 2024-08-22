@@ -65,7 +65,7 @@ Monitoring User Behavior : <br/>
 <img src="https://imgur.com/66b0H1J.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
-
+<p align="center">
 <h2>Conclusion</h2>
 Analyzing FTP log files using Splunk SIEM provides valuable insights into file transfer activities within a network. By monitoring FTP events, detecting anomalies, and correlating with other logs, organizations can enhance their security posture and protect against various cyber threats.
 </p>
