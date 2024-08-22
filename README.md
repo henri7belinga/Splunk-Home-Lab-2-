@@ -46,7 +46,7 @@ Extracting Relevant Fields : <br/>
 <br/>
 <br/> 
 <p align="center">
-Analyzing Web traffic Patterns : <br/>
+Analyzing Web Traffic Patterns : <br/>
 <img src="https://imgur.com/NlpTFRQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://imgur.com/L6i84An.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
